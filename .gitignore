@@ -1,4 +1,66 @@
+# Dropbox attribute files
+**/.dropbox.attr
+
+# macOS folder view settings files
+**/.DS_Store
+
+# programming language files (history, workspace data, project settings)
+**/.Rhistory
+**/.RData
+**/.Rproj.user
 .Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+**/*.rds
+
+# Eclipse IDE configuration files
+**/.externalToolBuilders/
+**/.project
+**/.settings
+**/.texlipse
+
+# LaTeX files (temporary and output)
+## Table of contents files
+**/*.toc
+## Synchronization files between LaTeX and PDF
+**/*.synctex.gz
+## LaTeX build system files
+**/*.fls
+**/*fdb_latexmk
+## Index files
+**/*.idx
+**/*.ind
+**/*.ilg
+## Brief references
+**/*.brf
+## Bibliography logs and processed bibliography
+**/*.blg
+**/*.bbl
+## Device Independent file format
+**/*.dvi
+## Log files
+**/*.log
+## Auxiliary files
+**/*.aux
+**/*.out
+## Output files
+**/*concordance.tex
+## Spell checking files
+**/*.spl
+
+# Backup and temporary files
+## Backup files
+**/*.bak
+**/*.backup
+## Location files
+**/*.loc
+## Temporary files (often created by text editors)
+**/*~
+## Emacs temporary files
+**/\#*
+
+# Cache and data directories
+**/cache
+
+## ignore all files in the report/figure directory
+# report/figure/*
+
+
