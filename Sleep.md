@@ -1,5 +1,8 @@
 When he sleeps.
 
+## Description
+{{ site.description }}
+
 ##  Quoted text
 
 Quote text using `> **`
@@ -8,4 +11,4 @@ Quote text using `> **`
 
 ## Contact me
 
-- Email: [Lilly](mailto:zhixuan.li@uzh.ch)
+Do you like my cat? [I'd love to hear from you!](mailto:{{ site.email }})
